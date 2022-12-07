@@ -1,10 +1,8 @@
-# Goalsetter MERN app
+# Police System
 
-This is the goalsetter app from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
+This is the police crime reporting app built from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
 
 ## Usage
-
-Rename the .envexample to .env and add your MONGO_URI
 
 ### Install dependencies
 
